@@ -1,4 +1,4 @@
-## COVID19 - Analysis and Imapct of Novel Coronavirus on TOP 5 Nations.
+﻿## COVID19 - Analysis and Imapct of Novel Coronavirus on TOP 5 Nations.
 
 ### Understanding of the problem statements
 There are 3 questions we would like to answer from our data.
@@ -13,7 +13,3 @@ These questions will help us understand the impact of COVID-19 globally and also
 
 - Novel Coronavirus (COVID-19) Cases Data - [here](https://data.humdata.org/m/dataset/novel-coronavirus-2019-ncov-cases)
 - World Population Data - [here](https://worldpopulationreview.com/countries/#popTable)
-
-- For the insights have a look at [Analysis Report - Top 5 Nations affected by COVID-19](https://medium.com/@arpan.kushwaha99/analysis-report-top-5-nations-affected-by-covid-19-ee7c2f4712b8)
-
-- Medium post link - https://medium.com/@arpan.kushwaha99/analysis-report-top-5-nations-affected-by-covid-19-ee7c2f4712b8 
