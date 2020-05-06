@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+{% block body %}
+<p>Upload an image and let the CNN classify it into a Dog breed!</p>
+
+<p>
+    This is a pretty simple app to identify the canine breed.
+</p>
+
+
+<form action="/" method="post" enctype="multipart/form-data">
+    <input type="file" name="image" id="image">
+    <input class="pure-button pure-button-primary" type="submit" value="Submit">
+</form>
+{% endblock %}

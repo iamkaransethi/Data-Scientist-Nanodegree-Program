@@ -1,0 +1,11 @@
+{% extends 'layout.html' %}
+{% block body %}
+<p>Pre-trained Xception model algorithm thinks the following...</p>
+<div class="centered">
+    <p>The image looks like a... {{ plot_script|safe }}</p>
+    <img src="{{image_url}}" alt="Input image">
+    <!-- {{ plot_div|safe }} -->
+</div>
+<script src="http://cdn.pydata.org/bokeh/release/bokeh-2.0.2.min.js"></script>
+<script src="http://cdn.pydata.org/bokeh/release/bokeh-widgets-2.0.2.min.js"></script>
+{% endblock %}
