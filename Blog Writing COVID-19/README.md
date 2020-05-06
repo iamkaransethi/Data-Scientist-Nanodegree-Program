@@ -13,3 +13,6 @@ These questions will help us understand the impact of COVID-19 globally and also
 
 - Novel Coronavirus (COVID-19) Cases Data - [here](https://data.humdata.org/m/dataset/novel-coronavirus-2019-ncov-cases)
 - World Population Data - [here](https://worldpopulationreview.com/countries/#popTable)
+- For the insights have a look at [Analysis Report - Top 5 Nations affected by COVID-19](https://medium.com/@karansahni10005/analysis-report-top-5-nations-affected-by-covid-19-d75562081d64)
+
+- Medium post link - https://medium.com/@karansahni10005/analysis-report-top-5-nations-affected-by-covid-19-d75562081d64 
