@@ -4,8 +4,16 @@
 There are 3 questions we would like to answer from our data.
 
 1. Which TOP 5 nation are affected by COVID-19?
+
+![TOP 5 nation are affected by COVID-19](https://raw.githubusercontent.com/iamkaransethi/Data-Scientist-Nanodegree-Program/master/Blog%20Writing%20COVID-19/img/5most%20affected%20nations.PNG)
+
 2. What is the rate of recovery among TOP 5 Nations?
+
+![Recovery rate among TOP 5 Nations](https://raw.githubusercontent.com/iamkaransethi/Data-Scientist-Nanodegree-Program/master/Blog%20Writing%20COVID-19/img/recovery%20rate.PNG)
+
 3. What is the rate of mortality due to COVID-19 among these Nations?
+
+![Mortalityrate among TOP 5 Nations](https://raw.githubusercontent.com/iamkaransethi/Data-Scientist-Nanodegree-Program/master/Blog%20Writing%20COVID-19/img/affected%20population.PNG)
 
 These questions will help us understand the impact of COVID-19 globally and also help to gain insight on the its severity to human life.
 
