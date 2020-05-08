@@ -9,4 +9,4 @@ Repository for Projects in Data Scientist Nano Drgree Program by Udacity
 
 3. Recommendations with IBM - [here](https://github.com/iamkaransethi/Data-Scientist-Nanodegree-Program/tree/master/Recommendations%20With%20IBM/Recommendations%20with%20IBM)
 
-4. Blog COVID-19 - [here](https://github.com/iamkaransethi/Data-Scientist-Nanodegree-Program/tree/master/Blog%20Writing%20COVID-19)
+4. Blog Writing - [here](https://github.com/iamkaransethi/Data-Scientist-Nanodegree-Program/tree/master/Blog%20Writing)
