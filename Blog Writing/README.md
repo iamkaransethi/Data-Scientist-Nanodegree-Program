@@ -16,7 +16,7 @@ This code runs with Python version 3.* and requires the libraries mentioned belo
 * matplotlib
 * seaborn
 
-The results are based on the Stackoverflow’s 2019 Annual Developer Survey and can be downloaded under the following link [here](https://insights.stackoverflow.com/survey) . </br>
+The results are based on the Stackoverflow’s 2019 Annual Developer Survey and can be downloaded under the following link [here](https://insights.stackoverflow.com/survey). </br>
 
 ## Project Motivation <a name="motivation"></a>
 
