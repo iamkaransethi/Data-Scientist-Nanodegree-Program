@@ -1,5 +1,5 @@
 
-opencv-python==3.2.0.6
+opencv-python==3.4.7.28
 beautifulsoup4==4.8.1
 bokeh==2.0.2
 Bottleneck==1.2.1
